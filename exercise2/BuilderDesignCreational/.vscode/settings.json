@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "objectPool/lib/slf4j-api-2.0.0-alpha7.jar",
+        "objectPool/lib/slf4j-simple-2.0.0-alpha7.jar",
+        "objectPool1/lib/hsqldb-2.6.1.jar"
+    ]
+}

@@ -1,0 +1,9 @@
+- why modularity is important to the design concepts?
+    . make easier to:
+     + maintain
+     + testing
+    -> because the money/portfolio of the company
+
+- what is the characteristic of the modularity?
+    . less coupling 
+    . more cohesive
