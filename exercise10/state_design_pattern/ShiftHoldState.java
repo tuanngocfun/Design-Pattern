@@ -17,4 +17,5 @@ public class ShiftHoldState implements State{
             keyboard.setState(new CapslockShiftHoldState());
         }
     }
+    
 }

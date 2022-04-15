@@ -17,6 +17,10 @@ public class Keyboard {
     }
     public void hold(Key key){
         this.key = key;
+        if(key == Key.FN){
+            this.state = new FNState();
+            state.hold(this, key);
+        }
         state.hold(this, key);
     }
     public void unhold(Key key){
