@@ -79,5 +79,18 @@ public class Client {
         keyboard.unhold(Key.SHIFT);
         keyboard.tap(Key.Q);
         System.out.println("< ---------------------------------------------------------------- >");
+
+        System.out.println("More in Control and state...");
+
+        System.out.println("< ---------------------------------------------------------------- >");
+        Keyboard keyboard2 = new Keyboard();
+
+        System.out.println("Hold FN + F11");
+        keyboard2.hold(Key.FN);
+        keyboard2.tap(Key.F11);
+
+        System.out.println("< ---------------------------------------------------------------- >");
+        // keyboard2.unhold(Key.FN);
+
     }
 }
