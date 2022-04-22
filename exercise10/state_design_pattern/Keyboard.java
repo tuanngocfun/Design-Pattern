@@ -15,6 +15,7 @@ public class Keyboard {
     public void setState(State state){
         this.state = state;
     }
+    // WTF
     public void hold(Key key){
         this.key = key;
         if(key == Key.FN){
