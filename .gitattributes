@@ -30,3 +30,9 @@ singleton_designPattern/* linguist-vendored
 
 strategy_designPattern/* linguist-documentation=false
 strategy_designPattern/* linguist-vendored
+
+exercise10/* linguist-documentation=false
+exercise10/* linguist-vendored
+
+exercise11/* linguist-documentation=false
+exercise11/* linguist-vendored
