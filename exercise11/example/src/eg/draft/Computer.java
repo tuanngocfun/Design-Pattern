@@ -1,5 +1,4 @@
-package example.src.eg.draft;
-eg.draft;
+package eg.draft;
 
 import java.util.ArrayList;
 

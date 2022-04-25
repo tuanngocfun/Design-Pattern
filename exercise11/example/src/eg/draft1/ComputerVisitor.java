@@ -1,4 +1,4 @@
-package example.src.eg.draft1;
+package eg.draft1;
 
 public interface ComputerVisitor {
     void visit(Computer computer);

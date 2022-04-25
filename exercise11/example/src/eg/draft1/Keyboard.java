@@ -1,4 +1,4 @@
-package example.src.eg.draft1;
+package eg.draft1;
 
 public class Keyboard implements ComputerPart{
     private double id;

@@ -1,4 +1,4 @@
-package example.src.eg.draft3;
+package eg.draft3;
 
 public class Monitor extends ComputerPart {
     public Monitor(){

@@ -1,4 +1,4 @@
-package example.src.eg.draft2;
+package eg.draft2;
 
 public abstract class ComputerPart {
     private String id;

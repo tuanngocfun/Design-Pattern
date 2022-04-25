@@ -1,4 +1,4 @@
-package example.src.eg.draft1;
+package eg.draft1;
 
 public class Monitor implements ComputerPart{
     private double id;
@@ -8,7 +8,6 @@ public class Monitor implements ComputerPart{
         computerVisitor.visit(this);
     }
 
-    public 
     public Monitor(){
         this.id = 3.1;
         this.underscore = "------";
