@@ -1,5 +1,4 @@
-package example.src.eg.draft;
-eg.draft;
+package eg.draft;
 
 public class Mouse extends ComputerPart {
     public void display(){
