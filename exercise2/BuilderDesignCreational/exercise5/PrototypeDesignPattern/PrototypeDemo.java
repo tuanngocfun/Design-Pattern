@@ -1,4 +1,5 @@
-package exercise5.PrototypeDesignPattern;
+package PrototypeDesignPattern;
+
 
 public class PrototypeDemo {
     public static void main(String[] args) throws CloneNotSupportedException {

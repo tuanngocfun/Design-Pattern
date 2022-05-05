@@ -1,4 +1,5 @@
-package adapter.extractFrom2WayAdapter;
+package extractFrom2WayAdapter;
+
 
 public class RhombusAdapter extends Rhombus implements Shape {
     public RhombusAdapter() {

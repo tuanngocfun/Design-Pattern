@@ -1,4 +1,4 @@
-package exercise5.extendClassWay;
+package extendClassWay;
 
 public class extendClass {
     public static void main(String[] args) {

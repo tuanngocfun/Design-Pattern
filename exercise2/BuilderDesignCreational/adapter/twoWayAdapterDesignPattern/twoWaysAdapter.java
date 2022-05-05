@@ -1,4 +1,5 @@
-package adapter.twoWayAdapterDesignPattern;
+package twoWayAdapterDesignPattern;
+
 
 
 import java.util.ArrayList;

@@ -1,4 +1,5 @@
-package adapter.extractFromAdapter;
+package extractFromAdapter;
+
 
 public class GeometricShapeObjectAdapter implements Shape {
     private GeometricShape adaptee;

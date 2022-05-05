@@ -1,4 +1,5 @@
-package exercise5.PrototypeZipDesignPattern;
+package PrototypeZipDesignPattern;
+
 
 import java.util.HashMap;
 import java.util.Map;

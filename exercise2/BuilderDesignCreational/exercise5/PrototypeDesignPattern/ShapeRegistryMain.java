@@ -1,4 +1,5 @@
-package exercise5.PrototypeDesignPattern;
+package PrototypeDesignPattern;
+
 
 public class ShapeRegistryMain {
     public static void main(String[] args) throws CloneNotSupportedException {

@@ -1,4 +1,5 @@
-package exercise5.ifaceSol;
+package ifaceSol;
+
 
 public class Square implements Shape{
     @Override public void display() {

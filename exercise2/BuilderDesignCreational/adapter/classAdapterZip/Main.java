@@ -1,4 +1,5 @@
-package adapter.classAdapterZip;
+package classAdapterZip;
+
 
 import java.util.ArrayList;
 import java.util.List;
