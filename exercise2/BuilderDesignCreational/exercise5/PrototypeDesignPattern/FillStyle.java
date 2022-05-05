@@ -1,4 +1,5 @@
-package exercise5.PrototypeDesignPattern;
+package PrototypeDesignPattern;
+
 
 public class FillStyle implements Cloneable{
     protected FillPattern fillPattern;

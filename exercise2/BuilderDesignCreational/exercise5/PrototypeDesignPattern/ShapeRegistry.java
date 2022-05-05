@@ -1,4 +1,5 @@
-package exercise5.PrototypeDesignPattern;
+package PrototypeDesignPattern;
+
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,5 @@
-package adapter.extractFrom2WayAdapter;
+package extractFrom2WayAdapter;
+
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,5 @@
-package exercise5.PrototypeDesignPattern;
+package PrototypeDesignPattern;
+
 
 public class Rectangle extends Shape{
     protected int length;

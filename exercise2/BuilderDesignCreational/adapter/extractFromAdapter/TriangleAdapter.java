@@ -1,4 +1,5 @@
-package adapter.extractFromAdapter;
+package extractFromAdapter;
+
 
 public class TriangleAdapter extends Triangle implements Shape {
     public TriangleAdapter() {

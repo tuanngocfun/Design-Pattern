@@ -1,4 +1,5 @@
-package adapter.extractFromAdapter;
+package extractFromAdapter;
+
 
 public class Circle implements Shape {
     @Override

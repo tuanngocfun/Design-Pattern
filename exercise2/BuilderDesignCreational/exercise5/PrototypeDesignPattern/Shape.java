@@ -1,4 +1,5 @@
-package exercise5.PrototypeDesignPattern;
+package PrototypeDesignPattern;
+
 
 public abstract class Shape implements Cloneable{
     protected int x;

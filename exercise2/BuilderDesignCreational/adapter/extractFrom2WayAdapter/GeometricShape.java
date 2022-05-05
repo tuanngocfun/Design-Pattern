@@ -1,4 +1,5 @@
-package adapter.extractFrom2WayAdapter;
+package extractFrom2WayAdapter;
+
 
 public interface GeometricShape {//adaptee
     double area();

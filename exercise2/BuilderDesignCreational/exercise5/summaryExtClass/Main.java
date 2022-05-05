@@ -1,4 +1,5 @@
-package exercise5.summaryExtClass;
+package summaryExtClass;
+
 
 import java.util.HashMap;
 

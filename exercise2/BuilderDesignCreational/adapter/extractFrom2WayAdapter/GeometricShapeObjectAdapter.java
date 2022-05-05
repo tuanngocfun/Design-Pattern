@@ -1,4 +1,5 @@
-package adapter.extractFrom2WayAdapter;
+package extractFrom2WayAdapter;
+
 
 public class GeometricShapeObjectAdapter implements Shape {
     private GeometricShape adaptee;
